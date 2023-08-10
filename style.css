@@ -1,0 +1,16 @@
+body{
+    background-color: #eee;
+    margin: 0;
+display: flex;
+}
+
+.inputs{
+display: flex;
+}
+
+input {
+    border-radius: 7px;
+    width: 40%;
+    padding: 15px;
+    margin: 10px;
+}
